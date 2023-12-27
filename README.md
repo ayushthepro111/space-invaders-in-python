@@ -18,7 +18,7 @@ This is a simple game of Space Invaders made with Python and Pygame. The objecti
 - Use the left and right arrow keys to move the spaceship
 - Press the spacebar to fire bullets
 - Avoid getting hit by the enemy bullets or the enemies themselves
-- Destroy all the enemies to win the game
+- Destroy all the enemies to make a high score
 - If the enemies reach the bottom of the screen, the game is over
 
 ## Screenshots
