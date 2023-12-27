@@ -22,9 +22,9 @@ This is a simple game of Space Invaders made with Python and Pygame. The objecti
 - If the enemies reach the bottom of the screen, the game is over
 
 ## Screenshots
+![Screenshot 2023-12-27 111503](https://github.com/ayushthepro111/space-invaders-in-python/assets/103628088/ba8f1d69-27d9-4505-8750-380d3e370a2f)
 
-!Screenshot 1
-!Screenshot 2
+![Screenshot 2023-12-27 111530](https://github.com/ayushthepro111/space-invaders-in-python/assets/103628088/cae2cbc0-acb7-494f-9066-00b4bcfa3ad5)
 
 ## Credits
 
